@@ -1,6 +1,3 @@
-# borderAnalysis
-
-
 # Border Crossing Analysis and Traffic Prediction
 ## Overview
 
