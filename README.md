@@ -9,10 +9,10 @@ This project analyzes the patterns of border crossings at U.S. ports of entry, s
 We examine crossing data from U.S. Customs and Border Protection from 1996 to 2024, considering multiple modes of transport such as personal vehicles, pedestrians, trucks, and rail. The final model predicts future border crossing traffic, assisting in infrastructure planning and resource allocation.
 
 ## Contributors
-Javier Reyes
-Michael Hennessy
-Hunter Katigbak
-Jeremy Bentley
+Javier Reyes,
+Michael Hennessy,
+Hunter Katigbak,
+Jeremy Bentley.
 
 ## Contributions:
 
