@@ -37,11 +37,17 @@ Count: The total number of crossings for each mode.
 ## Tools and Technologies Used
 
 Python: For data analysis, cleaning, and machine learning model development.
+
 Pandas: For data manipulation and cleaning.
+
 Matplotlib: For data visualization (charts and graphs).
+
 Leaflet.js: For interactive maps.
+
 Scikit-learn: For machine learning model development (Random Forest, Linear Regression, etc.).
+
 Visual Studio Code: For coding and project management.
+
 HTML/JavaScript: For web-based map visualization.
 
 ## Project Workflow
