@@ -50,9 +50,11 @@ Visual Studio Code: For coding and project management.
 
 HTML/JavaScript: For web-based map visualization.
 
+Tableau: Used to create additional interactive maps for visualizing border crossing data.
+
 ## Project Workflow
 
 Data Cleaning: The dataset was cleaned to focus on the relevant features such as transport modes and crossing counts.
-Data Analysis and Visualization: The data was analyzed using Python/Pandas and visualized using Matplotlib, hvplot and Leaflet.js to gain insights into traffic patterns.
+Data Analysis and Visualization: The data was analyzed using Python/Pandas and visualized using Matplotlib, hvplot, Tableau and Leaflet.js to gain insights into traffic patterns.
 Machine Learning: Various machine learning models, including Random Forest, were used to predict future traffic trends based on historical data.
-Map Creation: Interactive maps were created to visualize the busiest and least used ports of entry.
+Map Creation: Interactive maps were created using both Leaflet.js and Tableau to visualize the busiest and least used ports of entry.
