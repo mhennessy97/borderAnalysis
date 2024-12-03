@@ -37,7 +37,7 @@ Python: For data analysis, cleaning, and machine learning model development.
 
 Pandas: For data manipulation and cleaning.
 
-Matplotlib: For data visualization (charts and graphs).
+Matplotlib and hvplot: For data visualization (charts and graphs).
 
 Leaflet.js: For interactive maps.
 
