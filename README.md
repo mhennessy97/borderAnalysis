@@ -19,7 +19,7 @@ Javier Reyes:
 Michael Hennessy: Used Python and Pandas to analyze the data and determine how to predict increases/decreases in crossings. Attempted to use logistic and linear regression with reduced dataframe but was inaccurate. Revised the dataset being used to include more info and used Random Forest which increased the accuracy of the model. 
 
 
-Hunter Katigbak:
+Hunter Katigbak: Created a Random Forest regrossor model that predicts the increase of border crossings. Isolated and scaled data for the model to work with. Attempted using different methods such as multiple input lags and using diffrent features to predict other aspects of the dataset. After tuning different features and methods, a final R2 score of 91% was achieved which will be used for our presentation.
 
 
 Jeremy Bentley:
