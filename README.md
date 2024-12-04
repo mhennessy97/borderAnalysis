@@ -16,7 +16,7 @@ Jeremy Bentley.
 Javier Reyes:
 
 
-Michael Hennessy: Used Python and Pandas to analyze the data and determine how to analyze increases/decreases in crossings. Attempted to use logistic and linear regression with reduced dataframe but was inaccurate. Revised the dataset being used to include more info and used Random Forest which increased the accuracy of the model. 
+Michael Hennessy: Used Python and Pandas to analyze the data and determine how to predict increases/decreases in crossings. Attempted to use logistic and linear regression with reduced dataframe but was inaccurate. Revised the dataset being used to include more info and used Random Forest which increased the accuracy of the model. 
 
 
 Hunter Katigbak:
